@@ -1,6 +1,8 @@
 # myapp
 
 A new Flutter project.
+<img width="538" height="796" alt="image" src="https://github.com/user-attachments/assets/2bfed486-05c3-401a-a7f1-e74696512e45" />
+<img width="1227" height="804" alt="image" src="https://github.com/user-attachments/assets/1cda30ac-f0e7-48ff-9ffe-41fcedc9da93" />
 
 ## Getting Started
 ## mi prompt navegacion 3 paginas
