@@ -1,8 +1,14 @@
 # myapp
 
 A new Flutter project.
+<img width="565" height="802" alt="image" src="https://github.com/user-attachments/assets/9bfdd7b6-041c-4a93-b7b0-0fef9859b2d8" />
 <img width="538" height="796" alt="image" src="https://github.com/user-attachments/assets/2bfed486-05c3-401a-a7f1-e74696512e45" />
+<img width="498" height="808" alt="image" src="https://github.com/user-attachments/assets/d1ec1eca-f6ec-4e92-bfa6-d4d64ca37460" />
+
+
+<img width="1227" height="803" alt="image" src="https://github.com/user-attachments/assets/a7331f74-4ad3-43ed-ab8a-6c05e5e9458f" />
 <img width="1227" height="804" alt="image" src="https://github.com/user-attachments/assets/1cda30ac-f0e7-48ff-9ffe-41fcedc9da93" />
+<img width="1231" height="793" alt="image" src="https://github.com/user-attachments/assets/939d15bf-479e-4223-98c0-747b5afc4f39" />
 
 ## Getting Started
 ## mi prompt navegacion 3 paginas
